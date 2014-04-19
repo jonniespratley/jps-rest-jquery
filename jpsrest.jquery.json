@@ -1,0 +1,28 @@
+{
+  "name": "jpsrest",
+  "title": "jps REST",
+  "description": "This is an example REST jQuery plugin.",
+  "version": "0.1",
+  "homepage": "https://github.com/jonniespratley/jps-rest-jquery.git",
+  "author": {
+    "name": "Jonnie Spratley",
+    "url": "https://github.com/jonniespratley"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonniespratley/jps-rest-jquery.git"
+  },
+  "bugs": "https://github.com/jonniespratley/jps-rest-jquery/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "~2.x"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ]
+}
